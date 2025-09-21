@@ -14,7 +14,7 @@ A simple 2D platformer game built with Pygame.
 
 Before you begin, ensure you have met the following requirements:
 
-*   Python 3.x installed on your system.
+*   Python 2.x installed on your system.
 *   `pip` (Python package installer) is up to date.
 
 ## How to Run Locally
