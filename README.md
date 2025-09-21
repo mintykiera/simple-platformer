@@ -24,26 +24,15 @@ Follow these steps to get the game running on your local machine:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/mintykiera/simple-platformer.git
-    cd my-pygame-platformer
+    cd simple-platformer
     ```
-
-2.  **Create and activate a virtual environment (recommended):**
-    A virtual environment isolates your project's dependencies from your global Python installation.
-
-    ```bash
-    python -m venv venv
-    # On Windows:
-    .\venv\Scripts\activate
-    # On macOS/Linux:
-    source venv/bin/activate
-    ```
-
-3.  **Install dependencies:**
+    
+2.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Run the game:**
+3.  **Run the game:**
     ```bash
     python main.py
     ```
